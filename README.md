@@ -2,8 +2,20 @@
 
 ## Task-1 Call Center Data Analysis
 
-I have started an virtual Internship from PWC provided on the Forage Platform. Here my 1st task was to analyze the Call Center data and give some meaningful insights.
+I have started a virtual internship from PwC Switzerland provided on the Forge platform where my role was a Power BI Analyst.
+This is the 1st task given in the Internship. - Call Center Trend Analysis
 
+### 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻:
+► In this project, I have to Create a dashboard in Power BI for Claire (Call Center Manger) that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+
+KPI Include:
+► Overall customer satisfaction
+► Overall calls answered/abandoned
+►Calls by time
+►Average speed of answer
+►Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+As per the above requirement I tried to create a dashboard by using Power BI, the approach I followed is mentioned below.
 ### Insights
 --> The data is given for 03 monthes Attributes are like Call ID, Agent, Date, Time, Topic, Answered, Resolved, Seep of answer in seconds, Avg. talk duration and Satisfy rating. <br>
 --> Total 5000 nos. of call recived during 03 months of period, out of that 4054 call are answered & 946 calls are rejected on daily basis 160+ calls are recorded.<br>
