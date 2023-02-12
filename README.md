@@ -61,7 +61,9 @@ Internet service
 Type of contract
 Payment method
 
+Link for Interactive dashboard: https://www.novypro.com/project/customer-churn-modellingpwctask2
 Insights pictures are shown below
+
 ![Home](https://user-images.githubusercontent.com/106006353/218312627-249d9a57-ff25-483a-acee-9964b4bf781d.JPG)
 ![Churn](https://user-images.githubusercontent.com/106006353/218312644-79808d2b-2028-4885-aae6-8f0de8667f21.JPG)
 ![Customer Analysis](https://user-images.githubusercontent.com/106006353/218312655-c9376a86-db02-4c61-8e47-4e3ad194c437.JPG)
