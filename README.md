@@ -67,3 +67,31 @@ Insights pictures are shown below
 ![Home](https://user-images.githubusercontent.com/106006353/218312627-249d9a57-ff25-483a-acee-9964b4bf781d.JPG)
 ![Churn](https://user-images.githubusercontent.com/106006353/218312644-79808d2b-2028-4885-aae6-8f0de8667f21.JPG)
 ![Customer Analysis](https://user-images.githubusercontent.com/106006353/218312655-c9376a86-db02-4c61-8e47-4e3ad194c437.JPG)
+
+## Task-3 Diversity Inclusion
+
+Hello Everyone,
+
+Happy to share my 3rd dashboard with Diversity Inclusion which was offered by the PWC in the Forge Platform. As a Data Analyst my job was to define relevant KPI's in hiring, promotion, performance and turnover and create a visualization on the same.
+
+Again it was a great learning experience and opportunity to apply my knowledge and data analysis skills on real life datasets.
+
+1. KPI 1 - Hiring:
+> After FY20 Promotion for Junier Officer Female Employee is higher i.e. 53% but in Executive level Female employee is lower i.e. 13%. If we talk about Overall hiring then 41% was Female and 59% was Male Employee.
+2. KPI 2 - Promotions (This year):
+> In Executive Level Avg. time of promotion is higher for Female i.e 3.0 years wrt Male which is 1.9 years. Except that there is no significance difference. But for the Junior Officer, Manager & Senieor Officer the Percentage of promotion is very good which is more than 50%.
+3. KPI 3 - Turnover Rate (FY20 leavers):
+> We can observe that Avg. performance rating for Leaver was quite good and also leaving percentage for Female employee is 2% more than Male Employees.
+4. KPI 4 - Performance Rating:
+> Avg Rating for Male is 2.41% & Female is 2.42.
+5. KPI 5 - Executive Gender Balance:
+> We can see For Exicutive Level only 3.29% of Female employees increaeses for FY 21.
+6. KPI 6 - Age group:
+
+Link for Interactive Dashboard: https://www.novypro.com/project/diversity--inclusion-pharma-group-ag
+
+Insights pictures are shown below
+![HR Manger_ 1](https://user-images.githubusercontent.com/106006353/219956988-ca9c6140-2eb6-4bc5-ae36-c70734df30f8.JPG)
+![HR Manger_ 2](https://user-images.githubusercontent.com/106006353/219957001-1b38760c-07b1-461c-a4d3-57c883538276.JPG)
+
+
